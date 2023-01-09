@@ -1,0 +1,1 @@
+CREATE TABLE `test`.`shoppingcart` (`id` INT NOT NULL AUTO_INCREMENT , `name` VARCHAR(255) NOT NULL , `price` BIGINT(255) NOT NULL , `img` BLOB NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
